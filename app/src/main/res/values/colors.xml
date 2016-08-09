@@ -1,8 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#3F51B5</color>
-    <color name="colorPrimaryDark">#303F9F</color>
-    <color name="colorAccent">#FF4081</color>
+  <color name="colorPrimary">#3F51B5</color>
+  <color name="colorPrimaryDark">#303F9F</color>
+  <color name="colorAccent">#FF4081</color>
 
-    <color name="black_overlay">#66000000</color>
+  <color name="black_overlay">#66000000</color>
+
+  <color name="mana_white">#FCFCC1</color>
+  <color name="mana_blue">#67C1F5</color>
+  <color name="mana_black">#848484</color>
+  <color name="mana_red">#F85555</color>
+  <color name="mana_green">#26B569</color>
+  <color name="mana_colorless">#CCDBE0</color>
 </resources>
