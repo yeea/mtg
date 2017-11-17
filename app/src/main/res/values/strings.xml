@@ -5,16 +5,30 @@
   <string name="dummy_content"></string>
   <string name="menu_reset">Reset</string>
   <string name="menu_roll">Dice Roll</string>
-  <string name="menu_life">Life</string>
-  <string name="menu_mana_color">Mana</string>
-  <string name="menu_poison">Poison</string>
+  <string name="menu_life">Set Life Total</string>
+  <string name="menu_mana_color">Set Mana Types</string>
+  <string name="menu_poison">Toggle Poison</string>
+  <string name="menu_energy">Toggle Energy</string>
+  <string name="menu_loyalty">Toggle Loyalty</string>
   <string name="menu_add">Add Player</string>
+
   <string name="menu_settings">Settings</string>
   <string name="menu_about">About this app</string>
 
-  <string name="minus1">-1</string>
-  <string name="plus1">+1</string>
-  <string name="plus5">+5</string>
-  <string name="minus5">-5</string>
-  <string name="defaultLife">20</string>
+  <string name="minus_1">-1</string>
+  <string name="plus_1">+1</string>
+  <string name="minus">-</string>
+  <string name="plus">+</string>
+  <string name="plus_5">+5</string>
+  <string name="minus_5">-5</string>
+  <string name="twenty_life">20</string>
+  <string name="thirty_life">30</string>
+  <string name="forty_life">40</string>
+
+  <string name="life_title">Set Starting Life</string>
+  <string name="tag_life_dialog">LifeDialogFrag</string>
+
+  <string name="button_yes">Set</string>
+  <string name="button_no">Cancel</string>
+  <string name="about_build">Build number</string>
 </resources>
