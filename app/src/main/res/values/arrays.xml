@@ -5,4 +5,12 @@
     <item>30</item>
     <item>40</item>
   </string-array>
+
+  <string-array name="mana">
+    <item>White</item>
+    <item>Blue</item>
+    <item>Black</item>
+    <item>Red</item>
+    <item>Green</item>
+  </string-array>
 </resources>
