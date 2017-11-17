@@ -1,4 +1,4 @@
-package net.squidinc.mtg;
+package net.squidinc.mtg.activity;
 
 import android.app.Activity;
 import android.content.Context;
